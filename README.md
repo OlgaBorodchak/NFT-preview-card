@@ -7,8 +7,7 @@ This is a solution to the [NFT preview card component challenge on Frontend Ment
 
 ### Links
 
-- Solution URL: [https://olgaborodchak.github.io/NFT-preview-card/](https://your-solution-url.com)
-- Live Site URL:[![olgaborodchak-github-io-Prodact-Card-io.png](https://i.postimg.cc/FK83DDWf/olgaborodchak-github-io-Prodact-Card-io.png)](https://postimg.cc/mc3PrNGR)
+- Live Site URL:[https://olgaborodchak.github.io/NFT-preview-card/]
 
 ### Built with
 
